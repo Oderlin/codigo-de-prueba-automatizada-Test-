@@ -1,6 +1,6 @@
 # codigo-de-prueba-automatizada-Test-
 
-# Prueba Automatizada - Tienda Web
+# Prueba Automatizada
 
 Este proyecto contiene una prueba automatizada con **Selenium en Python** para una tienda web local desarrollada en HTML y Tailwind CSS..
 
