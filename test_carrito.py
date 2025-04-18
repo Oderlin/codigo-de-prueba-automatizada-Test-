@@ -37,7 +37,7 @@ driver.save_screenshot("screenshots/carrito_abierto.png")
 contenido = driver.find_element(By.ID, "cartItems").text
 assert "Camisa Blanca" in contenido, " El producto no se agregó al carrito correctamente."
 
-# Guardar reporte HTML básico
+# Guardar reporte HTML
 with open("reporte.html", "w") as f:
     f.write("<h1> Resultado de la Prueba</h1>")
     f.write("<p> Prueba ejecutada con éxito</p>")
